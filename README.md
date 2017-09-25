@@ -1,1 +1,1 @@
-# Above DC_GAN code is written in Tensorflow framework and used MNIST dataset for result purpose.  
+# Tensorflow implementation of DC-GAN on MNIST dataset.  
